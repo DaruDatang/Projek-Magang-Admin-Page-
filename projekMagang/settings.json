@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "python": true,
+        "postcss": true
+    },
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "workbench.editor.empty.hint": "hidden", 
+    "php.validate.executablePath": "C:/xampp/php/php.exe"
+}

@@ -1,0 +1,29 @@
+2025-10-09 08:38:48 - GET: Array
+(
+    [kode] => 97
+    [redirect] => provinsi.php?sort_provinsi=desc&page_provinsi=1
+)
+
+2025-10-09 08:38:53 - GET: Array
+(
+    [kode] => 97
+)
+
+2025-10-09 08:38:57 - GET: Array
+(
+    [kode] => 97
+    [redirect] => provinsi.php?sort_provinsi=desc&page_provinsi=1
+)
+
+2025-10-09 08:41:26 - GET: Array
+(
+    [kode] => 97
+    [redirect] => provinsi.php?sort_provinsi=desc&page_provinsi=1
+)
+
+2025-10-09 08:41:33 - GET: Array
+(
+    [kode] => 97
+    [redirect] => provinsi.php?sort_provinsi=desc&page_provinsi=1
+)
+
